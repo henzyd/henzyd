@@ -34,5 +34,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henzyd&" alt="henzyd" /></p>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henzyd)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henzyd&label=Profile%20views&color=0e75b6&style=flat" alt="henzyd-profile-views" /> </p>
