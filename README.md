@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Certgo](https://certgo.app/)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning how to use **AWS and Azure**
 
 - 👯 I’m looking to collaborate on [LinkSphere](https://linksphere.vercel.app/)
 
